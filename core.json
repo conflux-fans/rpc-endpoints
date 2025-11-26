@@ -1,0 +1,22 @@
+{
+    "name": "Conflux Core Space",
+    "chain_id": 1029,
+    "endpoints": [
+        {
+            "name": "Confura",
+            "url": "https://main.confluxrpc.com"
+        },
+        {
+            "name": "Confura For China",
+            "url": "https://cfxmain-china.confluxrpc.com"
+        },
+        {
+            "name": "Confura For Global",
+            "url": "https://cfxmain-global.confluxrpc.com"
+        },
+        {
+            "name": "Confura Backup",
+            "url": "https://main.confluxrpc.org"
+        }
+    ]
+}

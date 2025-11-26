@@ -1,0 +1,22 @@
+{
+    "name": "Conflux eSpace",
+    "chain_id": 1030,
+    "endpoints": [
+        {
+            "name": "Confura",
+            "url": "https://evm.confluxrpc.com"
+        },
+        {
+            "name": "Confura For China",
+            "url": "https://evmmain-china.confluxrpc.com"
+        },
+        {
+            "name": "Confura For Global",
+            "url": "https://evmmain-global.confluxrpc.com"
+        },
+        {
+            "name": "Confura Backup",
+            "url": "https://evm.confluxrpc.org"
+        }
+    ]
+}

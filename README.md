@@ -1,1 +1,1 @@
-# rpc-endpoints
+# conflux-rpc-endpoints
